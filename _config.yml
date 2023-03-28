@@ -1,0 +1,8 @@
+title: Salesforceの過去問
+description: 【Salesforce】Data アーキテクトとSharing and Visibility デザイナー
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
